@@ -1,0 +1,15 @@
+interview question in node js 
+
+1  how to get total salary in mysql
+
+2. what is fork in node js 
+
+3  node js is a single threaded language in node js 
+
+4  what is the diff b/w var let const 
+
+5  how to get indexing in mysql 
+
+6  how to use josn in node js 
+
+7. what is the diff b/w varchar and char
